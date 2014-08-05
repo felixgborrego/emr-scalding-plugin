@@ -1,0 +1,1 @@
+libraryDependencies += "com.gilt" %% "lib-emr-manager" % "0.0.1"
