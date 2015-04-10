@@ -1,4 +1,6 @@
-Work in progress...
+## Experimental
+What is here is just an experiment over the weekend.
+
 
 ## Description
 
